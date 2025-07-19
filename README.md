@@ -12,7 +12,7 @@ A simple reflex-based AI agent implemented using Google Colab. It takes user inp
 
 ###File: [Reflex Agent Notebook](divyashreemt_My_Simple_agent.ipynb)
  Tweet Generator Demo
-  ![Tweet Generator Agent Working](complex_agent/tweetgeneratoragent_output.png)
+  ![Tweet Generator Agent Working](tweetgeneratoragent_output.png)
 
  
 ## 2. Complex Agent – Email Auto-Responder
